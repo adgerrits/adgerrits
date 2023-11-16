@@ -1,16 +1,26 @@
-### Hi there 👋
+# Who I am and what I do
+I'm Ad Gerrits living in Nijmegen, the Netherlands.
 
-<!--
-**adgerrits/adgerrits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work as an information architect for Dutch government organizations: 
+* for an idividual  municipality like [Nijmegen](https://www.nijmegen.nl);
+* a group or all of municipality's like [VNG Realisatie](https://gemmaonline.nl);
+* in governmentwide programs like for [generic digital infrastructure (GDI)] (https://www.noraonline.nl/wiki/GDI-Architectuur_(GA)).
 
-Here are some ideas to get you started:
+In addition, I have: 
+* Developed software. In  the past, mainly with Microsoft and Oracle tooling. Nowadays I use mainly  open source products such as JavaScript and NodeJS.
+* Given architecture-related training like 'Enterprise Architecture' and 'Archimate'. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+When developing architecture, I like to use the description language [Archimate](https://en.wikipedia.org/wiki/ArchiMate) ('yes, clarity and accuracy matter!') and I use it with the help of the great open source application [Archi](https://www.archimatetool.com/) (here is a [promo-blogarticle](https://www.archimatetool.com/blog/2018/06/11/archi-spotlight-municipality-nijmegen-chooses-archi/) from me).
+
+# Github repos that interest me
+* [Dutch municipality reference architecture (GEMMA)](https://github.com/VNG-Realisatie/GEMMA-Archi-repository): the full reference architecture as used on the publishing site [GEMMA online](https://gemmaonline.nl) in Archimate format as used in Archi.
+* [CloudEvents specification](https://github.com/cloudevents/spec): a CNCF initiative to standardize information about events.
+* [NL Gov profile for CloudEvents](https://github.com/Logius-standaarden/NL-GOV-profile-for-CloudEvents): profile of the CloudEvents specification meant for Dutch government organizations.
+
+# Other online versions of me
+<p align="left">
+	<a href="https://twitter.com/adgerrits"><img src="docs/assets/x1.svg" alt="X"></a>
+	<a href="https://github.com/adgerrits"><img src="docs/assets/github.svg" alt="GitHub"></a>
+	<a href="https://www.linkedin.com/in/adgerrits"><img src="docs/assets/linkedin.svg" alt="LinkedIn"></a>
+	<a rel="me" href="https://mastodon.social/@adgerrits"><img src="docs/assets/mastodon.svg" alt="Mastodon"></a>
+</p>
