@@ -17,10 +17,13 @@ When developing architecture, I like to use the description language [Archimate]
 * [CloudEvents specification](https://github.com/cloudevents/spec): a CNCF initiative to standardize information about events.
 * [NL Gov profile for CloudEvents](https://github.com/Logius-standaarden/NL-GOV-profile-for-CloudEvents): profile of the CloudEvents specification meant for Dutch government organizations.
 
+# Programming tools I use
+<p align="left"> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+
 # Other online versions of me
 <p align="left">
-	<a href="https://twitter.com/adgerrits"><img src="docs/assets/x1.svg" alt="X"></a>
-	<a href="https://github.com/adgerrits"><img src="docs/assets/github.svg" alt="GitHub"></a>
+	<a href="https://twitter.com/adgerrits"><img src="docs/assets/x.svg" alt="X"></a>
+	<!--- <a href="https://github.com/adgerrits"><img src="docs/assets/github.svg" alt="GitHub"></a> --->
 	<a href="https://www.linkedin.com/in/adgerrits"><img src="docs/assets/linkedin.svg" alt="LinkedIn"></a>
 	<a rel="me" href="https://mastodon.social/@adgerrits"><img src="docs/assets/mastodon.svg" alt="Mastodon"></a>
 </p>
