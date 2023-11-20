@@ -22,7 +22,7 @@ When developing architecture, I like to use the description language [Archimate]
 
 # Other online versions of me
 <p align="left">
-	<a href="https://twitter.com/adgerrits"><img src="docs/assets/x.svg" alt="X"></a>
+	<a href="https://twitter.com/adgerrits"><img src="docs/assets/x.png" alt="X"></a>
 	<!--- <a href="https://github.com/adgerrits"><img src="docs/assets/github.svg" alt="GitHub"></a> --->
 	<a href="https://www.linkedin.com/in/adgerrits"><img src="docs/assets/linkedin.svg" alt="LinkedIn"></a>
 	<a rel="me" href="https://mastodon.social/@adgerrits"><img src="docs/assets/mastodon.svg" alt="Mastodon"></a>
