@@ -4,7 +4,7 @@ I'm Ad Gerrits living in Nijmegen, the Netherlands.
 I work as an information architect for Dutch government organizations: 
 * for an idividual  municipality like [Nijmegen](https://www.nijmegen.nl);
 * a group or all of municipality's like [VNG Realisatie](https://gemmaonline.nl);
-* in governmentwide programs like for [generic digital infrastructure (GDI)] (https://www.noraonline.nl/wiki/GDI-Architectuur_(GA)).
+* in governmentwide programs like for [generic digital infrastructure (GDI)](https://www.noraonline.nl/wiki/GDI-Architectuur_(GA)).
 
 In addition, I have: 
 * Developed software. In  the past, mainly with Microsoft and Oracle tooling. Nowadays I use mainly  open source products such as JavaScript and NodeJS.
